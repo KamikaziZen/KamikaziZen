@@ -1,16 +1,16 @@
-### Hi there 👋
+<img src="https://github.com/KamikaziZen/KamikaziZen/blob/852595d8d9d42b146ec7212d3035703205283b77/banner.PNG" width="100%"/>
 
-<!--
-**KamikaziZen/KamikaziZen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="center">
+  No, you are not tripping, it's really that blurry. 
+</p>
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<!-- **KamikaziZen/KamikaziZen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
+
+<h2>Projects:</h2>
+
+- ☁️ <a href="https://github.com/KamikaziZen/light_attention">Light Attention Mechanism for Transformers</a>
+- 🤏 <a href="https://github.com/asr-speedup-team/maxvol_compression_pytorch">Maxvol Compression of Neural Networks</a>
+- 🗣️ <a href="https://github.com/AndreevP/speech_distances">Speech Distances: generated audio quality assesent</a>
+- 🌊 <a href="https://github.com/KamikaziZen/oceanographic-data-interpolation">Oceanographic Data Interpolation</a>
+
