@@ -1,7 +1,7 @@
 <img src="https://github.com/KamikaziZen/KamikaziZen/blob/852595d8d9d42b146ec7212d3035703205283b77/banner.PNG" width="100%"/>
 
 <p align="center">
-  No, you are not tripping, it's really that blurry. 
+  Yes, it's really that blurry. 
 </p>
 
 
