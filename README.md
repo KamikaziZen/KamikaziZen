@@ -9,7 +9,7 @@
 
 <h2>Projects:</h2>
 
-- 🏃‍♂️ <a href="">RunLora: Faster Lora Implementation</a>
+- 🏃‍♂️ <a href="https://github.com/KamikaziZen/RunLoRA">RunLora: Faster Lora Implementation</a>
 - 🪟 <a href="https://github.com/KamikaziZen/quantization-benchmarks">NN Quantization Benchmarks</a>
 - ☁️ <a href="https://github.com/KamikaziZen/light_attention">Light Attention Mechanism for Transformers</a>
 - 🤏 <a href="https://github.com/asr-speedup-team/maxvol_compression_pytorch">Maxvol Compression of Neural Networks</a>
